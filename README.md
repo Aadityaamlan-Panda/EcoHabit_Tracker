@@ -13,3 +13,4 @@ The `RealT_CFt_Deviced.py` application tracks and calculates your device's carbo
 3. **Dependencies**: Install required Python libraries by running the following command in your terminal:
    ```bash
    pip install -r requirements.txt
+4. **Execution**: After Extracting the zip file, run the RealT_CFt_Deviced.py file. Other files can also be run, just make sure to keep Open Hardware Monitor active and running on Remote Web server
